@@ -1,0 +1,231 @@
+,Index,JobTitle,NormorlizedJobTitle
+0,0,Information Technology Manager,inform technolog manag
+1,1,Network Support Engineer,network support engin
+2,2,Information Technology Technician,inform technolog technician
+3,3,Software Engineer,softwar engin
+4,4,Software Developer,softwar develop
+5,5,"Information Technology, Network Administrator",inform technolog network administr
+6,6,Information Technology Intern,inform technolog intern
+7,7,Information Technology Instructor,inform technolog instructor
+8,8,Information Technology support,inform technolog support
+9,9,Senior Project Manager,senior project manag
+10,10,Information Technology Professional,inform technolog profession
+11,11,Desktop Engineering Supervisor,desktop engin supervisor
+12,12,Desktop Engineer,desktop engin
+13,13,Senior Information Technology Service Manager,senior inform technolog servic manag
+14,14,Information Technnology Director,inform technnolog director
+15,15,Information Technology Supervisor,inform technolog supervisor
+16,16,Information Technology Specialist,inform technolog specialist
+17,17,Senior Software Engineer,senior softwar engin
+18,18,IT Data Analyst & Computer Programmer,inform technolog data analyst comput programm
+19,19,Information Technology Project Manager,inform technolog project manag
+20,20,Technical Support Engineer,technic support engin
+21,21,Information Technology Director,inform technolog director
+22,22,"Head, Information Technology and Information Center",head inform technolog inform center
+23,23,"Director, Supply Chain and Logistics Information Technology",director suppli chain logist inform technolog
+24,24,"Senior Director, COMET Program",senior director comet program
+25,25,"Director, SAP Center of Excellence",director sap center excel
+26,26,"Director, Supply Chain Systems",director suppli chain system
+27,27,"Manager, Commercial and Field Force Systems",manag commerci field forc system
+28,28,"Manager, Service Delivery Systems",manag servic deliveri system
+29,29,"Manager, Client Services Systems",manag client servic system
+30,30,Project Manager,project manag
+31,31,Senior Technology Specialist,senior technolog specialist
+32,32,Vice President Information Technology,vice presid inform technolog
+33,33,Information Technology Intern (Test Automation Engineer),inform technolog intern test autom engin
+34,34,Java Full Stack Developer,java full stack develop
+35,35,Information Technology Supervisor I,inform technolog supervisor
+36,36,Associate Information Systems Analyst,associ inform system analyst
+37,37,Senior Information Technology Specialist,senior inform technolog specialist
+38,38,Information Assurance Specialist /Multimedia Specialist,inform assur specialist multimedia specialist
+39,39,Information Technology Assistant,inform technolog assist
+40,40,SYSTEMS ADMINISTRATOR,system administr
+41,41,SYSTEMS ANALYST,system analyst
+42,42,"Director, Information Technology",director inform technolog
+43,43,Systems Analyst II,system analyst ii
+44,44,Network Administrator,network administr
+45,45,Information Technology Support Specialist,inform technolog support specialist
+46,46,Application Development Manager,applic develop manag
+47,47,Manager of Information Technology Operations,manag inform technolog oper
+48,48,Manager of Enterprise Application Support,manag enterpris applic support
+49,49,Application Development Program Manager,applic develop program manag
+50,50,Architect and Development Manager,architect develop manag
+51,51,"Deputy Director, Office of Information Technology",deputi director offic inform technolog
+52,52,Senior Consulting Information Technology Program Manager,senior consult inform technolog program manag
+53,53,Information Technology Administrator,inform technolog administr
+54,54,Information Technology Consultant,inform technolog consult
+55,55,Senior Information Technology Project Manager,senior inform technolog project manag
+56,56,Lead Regional Information Systems Coordinator,lead region inform system coordin
+57,57,Information Technology Auditor,inform technolog auditor
+58,58,Head of Information Security / Director of Technology,head inform secur director technolog
+59,59,Senior Information Technology Consultant,senior inform technolog consult
+60,60,Cloud Architect,cloud architect
+61,61,Network Engineer,network engin
+62,62,Web Developer,web develop
+63,63,Senior Information Technology Technician,senior inform technolog technician
+64,64,Information Systems Administrator,inform system administr
+65,65,Adjunct Professor of Information Technology,adjunct professor inform technolog
+66,66,Senior Information Technology Manager,senior inform technolog manag
+67,67,Senior Information Systems Professional,senior inform system profession
+68,68,Senior Technician,senior technician
+69,69,Tier II Engineer,tier ii engin
+70,70,Information Technology Operations Engineer,inform technolog oper engin
+71,71,Information Technology Analyst,inform technolog analyst
+72,72,Application Systems Engineer,applic system engin
+73,73,Director of Information Technology,director inform technolog
+74,74,Computer Information Technology Instructor,comput inform technolog instructor
+75,75,Information Technology Consultant and Piano Mover,inform technolog consult piano mover
+76,76,Information Systems Technician,inform system technician
+77,77,Information Technology Support Engineer,inform technolog support engin
+78,78,Information Technology Representative/Marketing Specialist,inform technolog repres market specialist
+79,79,"Information Technology Specialist (Web), GS-11",inform technolog specialist web gs
+80,80,Vice President of Information Technology,vice presid inform technolog
+81,81,Executive Director Information Technology,execut director inform technolog
+82,82,Information Technology Systems Administrator,inform technolog system administr
+83,83,Information Technology Infrastructure Specialist,inform technolog infrastructur specialist
+84,84,"Manager, Information Technology Project Management Office",manag inform technolog project manag offic
+85,85,Project Manager /Application Systems Analyst III,project manag applic system analyst iii
+86,86,Systems Analyst II/ Product Manager - Vantive (PeopleSoft tool),system analyst ii product manag vantiv peoplesoft tool
+87,87,Systems Analyst II/ Project Manager,system analyst ii project manag
+88,88,Project Manager Intermediate /Software Analyst II,project manag intermedi softwar analyst ii
+89,89,Systems Analyst/ Programmer,system analyst programm
+90,90,Information Technology Operations Manager,inform technolog oper manag
+91,91,Systems Analyst/Manager of Information Technology,system analyst manag inform technolog
+92,92,Manager - Information Technology and Building Automation Systems,manag inform technolog build autom system
+93,93,"Vice President, Information Technology",vice presid inform technolog
+94,94,"Director, Information Technology Infrastructure",director inform technolog infrastructur
+95,95,"Manager, Information Technology Operations - Windows",manag inform technolog oper window
+96,96,Information Technology Coordinator,inform technolog coordin
+97,97,Application Developer,applic develop
+98,98,Software Engineer QA,softwar engin qa
+99,99,Software Engineering Manager,softwar engin manag
+100,100,Principal Software Engineer,princip softwar engin
+101,101,Sr Software Engineering Manger/Senior Technical Architect,sr softwar engin manger senior technic architect
+102,102,Sr. Web development Software Engineer,sr web develop softwar engin
+103,103,MTS - Software Developer,mt softwar develop
+104,104,Systems Applications,system applic
+105,105,Supervisor Systems Engineering,supervisor system engin
+106,106,Senior Network Administrator,senior network administr
+107,107,Senior Web Developer,senior web develop
+108,108,Senior Software Developer,senior softwar develop
+109,109,Software Development Engineer,softwar develop engin
+110,110,Sr. Manager - Data Engineering,sr manag data engin
+111,111,Software Engineering and Visiconn Support,softwar engin visiconn support
+112,112,Information Technology Associate,inform technolog associ
+113,113,Information Technology Senior Manager - Tech Design and Engineering,inform technolog senior manag tech design engin
+114,114,Lead Software Development Engineer in Test,lead softwar develop engin test
+115,115,Senior Software Development Engineer in Test,senior softwar develop engin test
+116,116,Data Engineer,data engin
+117,117,Front End Developer,front end develop
+118,118,Database Engineer,databas engin
+119,119,Software Consultant,softwar consult
+120,120,Associate DevOps Engineer,associ devop engin
+121,121,Sr. J2EE Developer/ System Software Specialist III,sr ee develop system softwar specialist iii
+122,122,Senior Software Test Manager,senior softwar test manag
+123,123,Software Development Manager,softwar develop manag
+124,124,Full Stack Web Developer,full stack web develop
+125,125,DevOps Engineer,devop engin
+126,126,Backend Software Developer Intern,backend softwar develop intern
+127,127,Sr Middleware Engineer/DevOps Engineer,sr middlewar engin devop engin
+128,128,"Manager, Trading Operations and DevOps",manag trade oper devop
+129,129,"Lead, Trading Operations and DevOps",lead trade oper devop
+130,130,Senior System Analyst,senior system analyst
+131,131,"Cloud, DevOps and Security Engineer",cloud devop secur engin
+132,132,Big Data / Datawarehouse Tech Lead,big data datawarehous tech lead
+133,133,DevOps Manager,devop manag
+134,134,Senior Project Engineer and Onsite Coordinator,senior project engin onsit coordin
+135,135,AWS Cloud Engineer,aw cloud engin
+136,136,Devops Practitioner,devop practition
+137,137,Automation Support (On Premise & Remote),autom support premis remot
+138,138,Linux System Administrator/DevOps,linux system administr devop
+139,139,Jr Linux System Administrator,jr linux system administr
+140,140,JAVA DEVELOPER,java develop
+141,141,Database Developer,databas develop
+142,142,Programmer,programm
+143,143,Information Technology Support Specialist/System Administrator,inform technolog support specialist system administr
+144,144,AZURE CLOUD ENGINEER,azur cloud engin
+145,145,AWS/DevOps Engineer,aw devop engin
+146,146,Cloud Engineer,cloud engin
+147,147,Data Analyst,data analyst
+148,148,Data Scientist,data scientist
+149,149,Machine Learning Engineer,machin learn engin
+150,150,DATA SCIENTIST/ MACHINE LEARNING,data scientist machin learn
+151,151,Python Developer,python develop
+152,152,Sr Network Engineer,sr network engin
+153,153,Software Engineer Developer,softwar engin develop
+154,154,Senior Data Analyst and Report Developer Reporter Developer,senior data analyst report develop report develop
+155,155,Data Process Engineer Intern,data process engin intern
+156,156,Systems Engineer,system engin
+157,157,Database Marketing Specialist,databas market specialist
+158,158,Database Administrator,databas administr
+159,159,Information Technology Data/Database Analyst/Senior,inform technolog data databas analyst senior
+160,160,Information Technology Infrastructure Support Technician,inform technolog infrastructur support technician
+161,161,Machine Learning Software Engineer,machin learn softwar engin
+162,162,Software Engineer(ComputerVision/ML),softwar engin computervis ml
+163,163,Machine Learning Engineer/Student,machin learn engin student
+164,164,Project Lead/Technical Architect,project lead technic architect
+165,165,Lead Software Engineer in Machine Learning,lead softwar engin machin learn
+166,166,Software Quality Engineer (HANA Database),softwar qualiti engin hana databas
+167,167,Sr. Machine Learning Engineer - IC4,sr machin learn engin ic
+168,168,Software Engineer(CV/ML),softwar engin cv ml
+169,169,Machine Learning Intern,machin learn intern
+170,170,Software Engineer (Machine Learning),softwar engin machin learn
+171,171,iOS Developer Intern,io develop intern
+172,172,Backend Developer,backend develop
+173,173,Data Engineer (Developer),data engin develop
+174,174,AVP /Principal Machine Learning Engineer,avp princip machin learn engin
+175,175,Principal Data Scientist,princip data scientist
+176,176,Information Service Support Staff,inform servic support staff
+177,177,Computer Vision /Machine Learning Intern,comput vision machin learn intern
+178,178,Lead Cloud BigData and Machine Learning,lead cloud bigdata machin learn
+179,179,Cloud Big Data Architect,cloud big data architect
+180,180,Lead Data Engineer,lead data engin
+181,181,Lead Big Data Engineer,lead big data engin
+182,182,Data Processing Programmer,data process programm
+183,183,Information Technology Project Manager /Product Scrum Master,inform technolog project manag product scrum master
+184,184,Senior Business Analyst /Information Technology Product Owner,senior busi analyst inform technolog product owner
+185,185,Computer Applications Instructor / Information Technologies Manager,comput applic instructor inform technolog manag
+186,186,Software Engineering and Management,softwar engin manag
+187,187,Information Technology Operations Manager/ Technical Product Leader,inform technolog oper manag technic product leader
+188,188,Information Technology Infrastructure Delivery Manager,inform technolog infrastructur deliveri manag
+189,189,Information Technology Application Owner,inform technolog applic owner
+190,190,Senior Project Engineer(Associate Project Manager),senior project engin associ project manag
+191,191,Senior Consultant - Information Technology,senior consult inform technolog
+192,192,Information Technology Project Lead,inform technolog project lead
+193,193,Software Development Testing Engineer,softwar develop test engin
+194,194,Senior Software Test Engineer,senior softwar test engin
+195,195,Senior Development Manager,senior develop manag
+196,196,Software Engineering Manager / Project Manager,softwar engin manag project manag
+197,197,Information Technology Lead - Oracle PeopleSoft,inform technolog lead oracl peoplesoft
+198,198,Data center Project Manager/Network Scaling,data center project manag network scale
+199,199,Program Director | Senior Technical Project Manager,program director senior technic project manag
+200,200,"Sr. Software Engineer, Principal DevOps Tech Lead| Subject Matter Expert",sr softwar engin princip devop tech lead subject matter expert
+201,201,SOFTWARE ENGINEER - LEAD,softwar engin lead
+202,202,Sr Technical Program Manager,sr technic program manag
+203,203,"Agile Project Manager, Engineering and Design",agil project manag engin design
+204,204,Software Test Engineer,softwar test engin
+205,205,Technical Program Manager - Amazon Homepage,technic program manag amazon homepag
+206,206,Technical Program Manager - Amazon Checkout,technic program manag amazon checkout
+207,207,Software Development Engineer - Test Information Technology,softwar develop engin test inform technolog
+208,208,Software Program Manager,softwar program manag
+209,209,Software Quality Engineer,softwar qualiti engin
+210,210,System Analyst,system analyst
+211,211,Advanced Software Engineer,advanc softwar engin
+212,212,PROGRAM MANAGER,program manag
+213,213,Technical-project-manager,technic project manag
+214,214,Senior Information Systems Analyst,senior inform system analyst
+215,215,Technical Project Manager/DevOps,technic project manag devop
+216,216,Systems Administrator/Manager of Information Technology,system administr manag inform technolog
+217,217,Systems Administrator - Information Technology,system administr inform technolog
+218,218,Network Manager,network manag
+219,219,Project Manager Scrum Master,project manag scrum master
+220,220,Sr. Information Technology Project Analyst,sr inform technolog project analyst
+221,221,Network Development Engineer,network develop engin
+222,222,Information System Manager,inform system manag
+223,223,Sr. Technical Product Manager / Engagement Manager,sr technic product manag engag manag
+224,224,Information Technology Systems Engineer,inform technolog system engin
+225,225,"Information Technology Support Technician, IPTel Subject Matter Expert, Technical Lead",inform technolog support technician iptel subject matter expert technic lead
+226,226,Network Operations Analyst,network oper analyst
+227,227,Technical Support Specialist,technic support specialist
+228,228,Information Technology Trainee,inform technolog traine
+229,229,Full Stack Developer,full stack develop
